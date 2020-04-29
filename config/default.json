@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://aron:aron@cluster0-iuu3e.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://aron:aron@cluster0-iuu3e.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
 }
